@@ -1,0 +1,12 @@
+# Project Title
+
+##  Description
+This project is developed as part of my college activity. It demonstrates basic concepts of programming and problem-solving using simple logic.
+
+##  Features
+- Easy to understand code
+- Beginner-friendly
+- Demonstrates core concepts
+- Clean and simple output
+
+Done by:Santhosh V
